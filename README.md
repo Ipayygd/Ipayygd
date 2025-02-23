@@ -8,7 +8,7 @@ I enjoy building **modern, high-performance web applications** and experimenting
 * 🚀 Currently working on [Gaxed Labs](https://gaxedlabs.com)
 
 ## 🚀 What I Do
-- 💻 Web Development
+- 💻 Front end Web Development
 - 🎨 Crafting smooth and interactive UI experiences
 - 🛠️ Building scalable and optimized web solutions
 
