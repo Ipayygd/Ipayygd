@@ -3,7 +3,7 @@
 I enjoy building **modern, high-performance web applications** and experimenting with **interactive UI/UX**.
 
 * 🌍 Based in Bandung
-* 🖥️ Check out my portfolio at [ipayygd, Portfolio](https://ipayygd.vercel.app)
+* 🖥️ Check out my [portfolio](https://ipayygd.vercel.app)
 * ✉️ Reach me at [Email](mailto:ipayygd@gmail.com)
 * 🚀 Currently working on [Gaxed Labs](https://gaxedlabs.com)
 
