@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, My Name is Raifal Hangga R 👋
 
-<!--
-**Ipayygd/Ipayygd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building **modern, high-performance web applications** and experimenting with **interactive UI/UX**.
 
-Here are some ideas to get you started:
+🌍 Based in Bandung
+🖥️ Check out my portfolio at [ipayygd, Portfolio](https://ipayygd.vercel.app)
+✉️ Reach me at [Email](mailto:ipayygd@gmail.com)
+🚀 Currently working on [Gaxed Labs](https://gaxedlabs.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- 💻 Web Development
+- 🎨 Crafting smooth and interactive UI experiences
+- 🛠️ Building scalable and optimized web solutions
+
+Let's connect and build something awesome! 🚀
